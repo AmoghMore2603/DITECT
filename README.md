@@ -12,3 +12,5 @@ disease(For people who
 Task:
 1. Prepare the data-set
 2. Build a model which
+
+NOTE : CREATE A FOLDER FOR TEMPLATES NAMING "templates" AND MOVE THE "dictect" & "result" FILES IN IT.
